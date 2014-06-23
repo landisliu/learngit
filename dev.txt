@@ -1,1 +1,2 @@
 this is the text from learngitcopy2
+this is dev text ecit in learngit
